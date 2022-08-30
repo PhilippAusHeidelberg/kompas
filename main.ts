@@ -1,5 +1,3 @@
 input.onButtonPressed(Button.A, function () {
-    for (let index = 0; index < 1; index++) {
-        basic.showCompass(5000)
-    }
+    basic.showCompass(5000)
 })
